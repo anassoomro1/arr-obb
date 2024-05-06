@@ -1,0 +1,54 @@
+
+
+
+.bg{
+background-image: url(https://images.unsplash.com/photo-1526406915894-7bcd65f60845?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+span{
+    color: white;
+    font-style: italic;
+}
+
+#Product{
+    color: white;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.main-card {
+   width: 250px;
+   height: 280px;
+   border: 1px solid #000;
+   border-radius: 10px;
+   color:rgb(63, 190, 221);
+   background-color:black;
+  
+
+
+}
+
+.color{
+   color:rgb(20, 157, 167);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+footer{
+   color: white;
+   text-align: center;
+   margin-top: 40px;
+}
+
+
+
+.Home{
+   text-align: center;
+   color: aliceblue;
+}
